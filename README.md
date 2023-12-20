@@ -37,4 +37,7 @@ The diagram illustrates the architecture of our implementation, showcasing the f
 <img src="data/images/DBoF.png" alt="Contex Gated DBoF Model" width="500"/>
 
 ## Visualising the results
-![Prediction Visualisation](data/images/viz.gif)
+
+We use ipywidgets to have real-time playback of our predictions
+
+![Prediction Visualisation](data/images/KitchenVid.gif)
