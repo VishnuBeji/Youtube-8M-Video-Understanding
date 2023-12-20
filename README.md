@@ -3,8 +3,8 @@
 ## Overview
 
 The YouTube 8M dataset, released in June 2019, provides segment-level annotations with human-verified labels on approximately 237,000 segments across 1,000 classes. This dataset was derived from the validation set of the YouTube-8M dataset.
-<img src="data/images/Thumbnails.png" alt="Thumbnails" width="600"/>
 
+<img src="data/images/Thumbnails.png" alt="Thumbnails" width="600"/>
 
 ### Dataset Statistics
 
@@ -36,3 +36,5 @@ The diagram illustrates the architecture of our implementation, showcasing the f
 ## Context-Gated DBoF Model
 <img src="data/images/DBoF.png" alt="Contex Gated DBoF Model" width="500"/>
 
+## Visualising the results
+![Prediction Visualisation](data/images/viz.gif)
