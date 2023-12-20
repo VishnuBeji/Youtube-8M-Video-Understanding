@@ -1,8 +1,9 @@
-# YouTube 8M Dataset - Segment-Level Annotations
+# Scene Understanding with YouTube 8M Dataset 
 
 ## Overview
 
 The YouTube 8M dataset, released in June 2019, provides segment-level annotations with human-verified labels on approximately 237,000 segments across 1,000 classes. This dataset was derived from the validation set of the YouTube-8M dataset.
+![Architecture Overview](data/images/Thumbnails.png)
 
 ### Dataset Statistics
 
@@ -27,7 +28,7 @@ We have provided images to illustrate the architecture and visual aspects of our
 
 ### Architecture Overview
 
-![Architecture Overview](data/architecture.png)
+![Architecture Overview](data/images/architecture.png)
 
 The diagram illustrates the architecture of our implementation, showcasing the flow and components used to process and analyze the YouTube 8M dataset.
 
